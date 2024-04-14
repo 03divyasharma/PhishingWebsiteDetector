@@ -58,7 +58,6 @@ For end-to-end project
 
  This ML feature is deployed by creating a Flask frontend and as static web app using Azure. 
 
-### URL  : https://yellow-cliff-0d0aa840f.5.azurestaticapps.net/
 
 
 ## [Random Forest Classifier](https://machinelearningmastery.com/random-forest-ensemble-in-python/): 
